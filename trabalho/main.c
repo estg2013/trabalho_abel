@@ -1,7 +1,12 @@
+/* TRABALHO PROGRAMACAO
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <conio.h>
+
 
 void menu() {
 	printf("......... MENU ......... \n\n");
